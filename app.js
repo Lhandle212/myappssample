@@ -1,0 +1,1 @@
+consule.console.log(hello);
